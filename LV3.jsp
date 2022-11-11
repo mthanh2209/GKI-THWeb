@@ -71,7 +71,7 @@ body{
 </style>
 </head>
 <body>
-<form method=post action="NewFile.jsp">
+<form method=post action="replyLV3.jsp">
 Your Name: <input type="text" name="CustomerName"/> <br/><br/>
 Your Email: <input type="text" name="CustomerEmail"/> <br/><br/>
 <div>
