@@ -126,7 +126,7 @@ li {
 						<li>LENOVO</li>
 						<li>SAMSUNG</li>
 						<li>ASUS</li>
-						<li>Hãng khác</li>
+						<li>OTHER</li>
 					</div>
 				</ul>
 			</li>
@@ -137,7 +137,7 @@ li {
 						<li>HP</li>
 						<li>EPSON</li>
 						<li>BROTHER</li>
-						<li>Hãng khác</li>
+						<li>OTHER</li>
 					</div>
 				</ul>
 			</li>
@@ -147,7 +147,7 @@ li {
 						<li>Plusktes</li>
 						<li>HP</li>
 						<li>BROTHER</li>
-						<li>Hãng khác</li>
+						<li>OTHER</li>
 					</div>
 				</ul>
 			</li>
