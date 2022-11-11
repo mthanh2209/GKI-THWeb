@@ -95,39 +95,39 @@ Your Email: <input type="text" name="CustomerEmail"/> <br/><br/>
 	<li><a href="">LENOVO</a>
 		<ul class="sub1">
 			<li><input type="checkbox" name="lenovo"
-			value="lap lenovo" style="color: blue;"> Lenovo Thinkbook</li>
+			value="Lenovo Thinkbook" style="color: blue;"> Lenovo Thinkbook</li>
 			<li><input type="checkbox" name="lenovo"
-			value="lap lenovo" style="color: blue;"> Lenovo ThinkPad</li>
+			value="Lenovo ThinkPad" style="color: blue;"> Lenovo ThinkPad</li>
 			<li><input type="checkbox" name="lenovo"
-			value="lap lenovo" style="color: blue;"> Lenovo Centre</li>
+			value="Lenovo Centre" style="color: blue;"> Lenovo Centre</li>
 			<li><input type="checkbox" name="lenovo"
-			value="lap lenovo" style="color: blue;"> Lenovo Legion</li>
+			value="Lenovo Legion" style="color: blue;"> Lenovo Legion</li>
 		</ul></li>
 	
 	<li><a href="">SAMSUNG</a>
 		<ul class="sub1">
 			<li><input type="checkbox" name="samsung"
-			value="lap samsung" style="color: blue;"> Gaming Samsung</li>
+			value="Gaming Samsung" style="color: blue;"> Gaming Samsung</li>
 			<li><input type="checkbox" name="samsung"
-			value="lap samsung" style="color: blue;"> Samsung Odyssey</li>
+			value="Samsung Odyssey" style="color: blue;"> Samsung Odyssey</li>
 		</ul></li>
 	
 	<li><a href="">ASUS</a>
 	<ul class="sub1">
 			<li><input type="checkbox" name="asus"
-			value="lap asus" style="color: blue;"> ASUS Zenbook</li>
+			value="ASUS Zenbook" style="color: blue;"> ASUS Zenbook</li>
 			<li><input type="checkbox" name="asus"
-			value="lap asus" style="color: blue;"> ASUS VivoBook</li>
+			value="ASUS VivoBook" style="color: blue;"> ASUS VivoBook</li>
 			<li><input type="checkbox" name="asus"
-			value="lap asus" style="color: blue;"> ASUS ROG</li>
+			value="ASUS ROG" style="color: blue;"> ASUS ROG</li>
 		</ul>
 	</li>
 	<li><a href="">OTHER</a>
 	<ul class="sub1">
 			<li><input type="checkbox" name="other"
-			value="other" style="color: blue;"> Macbook</li>
+			value="Macbook" style="color: blue;"> Macbook</li>
 			<li><input type="checkbox" name="other"
-			value="other" style="color: blue;"> Acer Spire</li>
+			value="Acer Spire" style="color: blue;"> Acer Spire</li>
 		</ul>
 	</li>
 </ul></li>
@@ -137,48 +137,48 @@ Your Email: <input type="text" name="CustomerEmail"/> <br/><br/>
 	<li><a href="">Canon</a>
 	<ul class="sub1">
 		<li><input type="checkbox" name="canon" 
-		value="dt canon" style="color: blue;"> CANON3DW</li>
+		value="CANON3DW" style="color: blue;"> CANON3DW</li>
 		<li><input type="checkbox" name="canon" 
-		value="dt canon" style="color: blue;"> CANON30DN</li>
+		value="CANON30DN" style="color: blue;"> CANON30DN</li>
 		<li><input type="checkbox" name="canon" 
-		value="dt canon" style="color: blue;"> CANONPIXMA</li>
+		value="CANONPIXMA" style="color: blue;"> CANONPIXMA</li>
 	</ul></li>
 	
 	<li><a href="">HP</a>
 	<ul class="sub1">
 		<li><input type="checkbox" name="hp" 
-		value="dt hp" style="color: blue;"> Neverstop</li>
+		value="HP Neverstop" style="color: blue;"> Neverstop</li>
 		<li><input type="checkbox" name="hp" 
-		value="dt hp" style="color: blue;"> PRO M428FDN</li>
+		value="HP PRO M428FDN" style="color: blue;"> PRO M428FDN</li>
 		<li><input type="checkbox" name="hp" 
-		value="dt hp" style="color: blue;"> Pro M501N</li>
+		value="HP Pro M501N" style="color: blue;"> Pro M501N</li>
 	</ul></li>
 	
 	<li><a href="">EPSON</a>
 	<ul class="sub1">
 		<li><input type="checkbox" name="epson" 
-		value="dt epson" style="color: blue;"> Econank</li>
+		value="Econank" style="color: blue;"> Econank</li>
 		<li><input type="checkbox" name="epson" 
-		value="dt epson" style="color: blue;"> Epson Dot Matrix</li>
+		value="Epson Dot Matrix" style="color: blue;"> Epson Dot Matrix</li>
 		<li><input type="checkbox" name="epson" 
-		value="dt epson" style="color: blue;"> Epson EB X51</li>
+		value="Epson EB X51" style="color: blue;"> Epson EB X51</li>
 	</ul>
 	</li>
 	<li><a href="">BROTHER</a>
 	<ul class="sub1">
 		<li><input type="checkbox" name="brother" 
-		value="dt brother" style="color: blue;">BROTHER DCP</li>
+		value="BROTHER DCP" style="color: blue;">BROTHER DCP</li>
 		<li><input type="checkbox" name="brother" 
-		value="dt brother" style="color: blue;">Brother HL</li>
+		value="Brother HL" style="color: blue;">Brother HL</li>
 		
 	</ul>
 	</li>
 	<li><a href="">OTHER</a>
 	<ul class="sub1">
 			<li><input type="checkbox" name="other"
-			value="other" style="color: blue;">Macbook</li>
+			value="Macbook" style="color: blue;">Macbook</li>
 			<li><input type="checkbox" name="other"
-			value="other" style="color: blue;">Acer Spire</li>
+			value="Acer Spire" style="color: blue;">Acer Spire</li>
 		</ul>
 	</li>
 </ul>
@@ -188,33 +188,33 @@ Your Email: <input type="text" name="CustomerEmail"/> <br/><br/>
 	<li><a href="">Plusktes</a>
 	<ul class="sub1">
 		<li><input type="checkbox" name="plusktes" 
-		value="dt plusktes" style="color: blue;">SmartOffice</li>
+		value="Plusktes SmartOffice" style="color: blue;">SmartOffice</li>
 	</ul>
 	</li>
 	<li><a href="">HP</a>
 	<ul class="sub1">
 		<li><input type="checkbox" name="hp" 
-		value="dt hp" style="color: blue;"> Neverstop</li>
+		value="HP Neverstop" style="color: blue;"> Neverstop</li>
 		<li><input type="checkbox" name="hp" 
-		value="dt hp" style="color: blue;"> PRO M428FDN</li>
+		value="HP PRO M428FDN" style="color: blue;"> PRO M428FDN</li>
 		<li><input type="checkbox" name="hp" 
-		value="dt hp" style="color: blue;"> Pro M501N</li>
+		value="HP Pro M501N" style="color: blue;"> Pro M501N</li>
 	</ul>
 	</li>
 	<li><a href="">BROTHER</a>
 	<ul class="sub1">
 		<li><input type="checkbox" name="brother" 
-		value="dt brother" style="color: blue;"> BROTHER DCP</li>
+		value="BROTHER DCP" style="color: blue;"> BROTHER DCP</li>
 		<li><input type="checkbox" name="brother" 
-		value="dt brother" style="color: blue;"> Brother HL</li>
+		value="Brother HL" style="color: blue;"> Brother HL</li>
 	</ul>
 	</li>
 	<li><a href="">OTHER</a>
 	<ul class="sub1">
 			<li><input type="checkbox" name="other"
-			value="other" style="color: blue;"> Macbook</li>
+			value="Macbook" style="color: blue;"> Macbook</li>
 			<li><input type="checkbox" name="other"
-			value="other" style="color: blue;"> Acer Spire</li>
+			value="Acer Spire" style="color: blue;"> Acer Spire</li>
 		</ul>
 	</li>
 </ul></li>
